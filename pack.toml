@@ -1,0 +1,13 @@
+name = "Adrenaline"
+author = "SkywardMC"
+version = "1.31.0+1.21.1.fabric"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "c6ccbd60997254b588c79f8aef32646caa9c7eeff2f1c4c3e85f54c837a2973e"
+
+[versions]
+fabric = "0.17.2"
+minecraft = "1.21.1"
